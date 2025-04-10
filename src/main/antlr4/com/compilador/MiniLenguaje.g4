@@ -27,3 +27,5 @@ SEPARATOR   : ';' | '(' | ')' | '{' | '}' | ',' | '.' ;
 WS          : [ \t\r\n]+ -> skip ;
 COMMENT     : '//' ~[\r\n]* -> skip ;
 BLOCK_COMMENT : '/*' .*? '*/' -> skip ;
+
+//Cometario
