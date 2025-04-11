@@ -1,4 +1,4 @@
-// Generated from c:/Users/agusm/OneDrive/Documentos/Ing. Informatica/5° Año (2025)/TC/TC-Ejercicio2/src/main/antlr4/com/compilador/MiniLenguaje.g4 by ANTLR 4.13.1
+// Generated from c:/Users/Usuario/Java/demo/src/main/antlr4/com/compilador/MiniLenguaje.g4 by ANTLR 4.13.1
 import org.antlr.v4.runtime.Lexer;
 import org.antlr.v4.runtime.CharStream;
 import org.antlr.v4.runtime.Token;
